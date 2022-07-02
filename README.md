@@ -38,7 +38,6 @@
 -   [Getting Started](#getting-started)
     -   [Prerequisites](#prerequisites)
     -   [Run Locally](#run-locally)
--   [Usage](#usage)
 -   [Roadmap](#roadmap)
 -   [License](#license)
 -   [Contact](#contact)
