@@ -2,6 +2,7 @@
 
 <!-- Title -->
 
+<img src="assets/main.webp" alt="logo" width="200" height="auto" />
 <h1>[PROJECT_NAME]</h1>
 
 <!-- Badges -->
