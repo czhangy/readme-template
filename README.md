@@ -34,7 +34,6 @@
     -   [Summary](#summary)
     -   [Tech Stack](#tech-stack)
     -   [Features](#features)
-    -   [Color Reference](#color-reference)
     -   [Environment Variables](#environment-variables)
 -   [Getting Started](#getting-started)
     -   [Prerequisites](#prerequisites)
